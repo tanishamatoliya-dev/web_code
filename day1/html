@@ -1,0 +1,22 @@
+<DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafe Irish</title>
+</head>
+<body>
+
+<h1>MAIN IMPORTANT LINE</h1>
+<h2>section title</h2>
+<h3>subsection title</h3>
+<p>paragraph text</p>
+
+basic text tags
+<br>
+<b>bold text</b>
+<i>italic text</i>
+<u>underlined text</u>
+<mark>highlighted text</mark>
+h<sub>2</sub>o
+hello<sup>2</sup>
