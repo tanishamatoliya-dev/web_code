@@ -1,22 +1,23 @@
-<DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cafe Irish</title>
+    <title>Cafe 😊</title>
 </head>
 <body>
 
-<h1>MAIN IMPORTANT LINE</h1>
-<h2>section title</h2>
-<h3>subsection title</h3>
-<p>paragraph text</p>
+<!--display as content =shown to user -->
+<!--text tags -->
 
-basic text tags
-<br>
-<b>bold text</b>
-<i>italic text</i>
-<u>underlined text</u>
-<mark>highlighted text</mark>
-h<sub>2</sub>o
-hello<sup>2</sup>
+<!--heading tags -->
+<h1>main important5 line</h1>
+<h2>section title</h2>
+<h3>sub section title</h3>
+<h4>sub section title</h4>
+<h5>sub section title</h5>
+<h6>sub section title</h6>
+
+
+</body>
+</html>
