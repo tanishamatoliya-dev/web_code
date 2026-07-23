@@ -18,6 +18,9 @@
 <h5>sub section title</h5>
 <h6>sub section title</h6>
 
+<!--paragraph tag -->
+<p>This is a <br>paragraph.</p>
+
 
 </body>
 </html>
