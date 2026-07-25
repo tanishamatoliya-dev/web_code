@@ -3,24 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cafe 😊</title>
+    <title>Cafe Irish⭐</title>
 </head>
 <body>
+    
+<!-- Display As Content - Shown To User cltrl + / -->
+<!-- Text Tags -->
 
-<!--display as content =shown to user -->
-<!--text tags -->
+<!-- Heading Tag -->
+ <h1>Main Important Line</h1>
+ <h1>Unlimited Movies</h1>
+ <h2>Section title</h2>
+ <h3>Sub Section </h3>
+ <h4>Smaller Heading</h4>
+ <h5>Even Smaller Heading</h5>
+ <h6>Smallest Heading</h6>
 
-<!--heading tags -->
-<h1>main important5 line</h1>
-<h2>section title</h2>
-<h3>sub section title</h3>
-<h4>sub section title</h4>
-<h5>sub section title</h5>
-<h6>sub section title</h6>
+<!-- Paragaraph tag -->
+ <p>
+    In a village that doesn't officially exist, a laborer's unmatched athletic <br>
+    <strong>talent</strong>  becomes his <em>weapon</em>  to fight for his <br>
+    people's right to be recognized.
 
-<!--paragraph tag -->
-<p>This is a <br>paragraph.</p>
+</p>
 
+
+<!-- Bold Format -->
+ <strong>About This Movie</strong>
+
+ <!-- Italic Format -->
+ <em>Web Development</em>
+
+ <!-- Highlight -->
+  <mark>Watch Now</mark>
+
+  <!-- Strike Down -->
+   <del>Offer Tonight</del>
+
+   H<sub>2</sub>O
+
+   Hello<sup>2</sup>
 
 </body>
 </html>
